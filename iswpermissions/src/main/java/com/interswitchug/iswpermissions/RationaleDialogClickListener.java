@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment;
 
 import java.util.Arrays;
 
-import pub.devrel.easypermissions.helper.PermissionHelper;
+import com.interswitchug.iswpermissions.helper.PermissionHelper;
 
 /**
  * Click listener for either {@link RationaleDialogFragment} or {@link RationaleDialogFragmentCompat}.

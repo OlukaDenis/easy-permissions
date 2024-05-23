@@ -12,7 +12,7 @@ import androidx.fragment.app.Fragment;
 
 import java.util.Arrays;
 
-import pub.devrel.easypermissions.helper.PermissionHelper;
+import com.interswitchug.iswpermissions.helper.PermissionHelper;
 
 /**
  * An immutable model object that holds all of the parameters associated with a permission request,

@@ -34,7 +34,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import pub.devrel.easypermissions.helper.PermissionHelper;
+import com.interswitchug.iswpermissions.helper.PermissionHelper;
 
 /**
  * Utility to request and check System permissions for apps targeting Android M (API &gt;= 23).
