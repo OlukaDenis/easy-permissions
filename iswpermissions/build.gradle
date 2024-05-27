@@ -3,7 +3,7 @@ plugins {
     id 'maven-publish'
 }
 
-def keystorePropertiesFile = rootProject.file("azure-configs.properties")
+def keystorePropertiesFile = rootProject.file("secrets.properties")
 def keystoreProperties = new Properties()
 keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 
